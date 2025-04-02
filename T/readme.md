@@ -1,0 +1,1 @@
+o objetivo dessa pasta é compartilhar ideias e pensamentos. Ponha aqui notas de coisas que você acha que todos deveriam pensar sobre ou saber.
