@@ -1,0 +1,1 @@
+## garantir que o executor de jogos funcione de forma integrada com a aplicação principal, criar métodos de comunicação entre processos, permitindo que o menu interaja com jogos em execução e testar a estabilidade e o desempenho da comunicação entre os módulos.
