@@ -1,4 +1,4 @@
-#DACCStation 
+
 ## criar controle
 - desmontar um controle e ver como seus componentes funcionam
 - entender como sinais são transmitidos e interpretados
