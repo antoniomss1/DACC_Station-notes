@@ -1,0 +1,1 @@
+## criar um módulo para registrar o tempo de execução de cada jogo, implementar um histórico de sessões, permitindo ao usuário visualizar seus jogos recentes, otimizar a gravação desses dados no sistema de arquivos, garantindo baixo impacto no desempenho, e gerar relatórios sobre o impacto da telemetria no desempenho geral do console.
