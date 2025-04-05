@@ -9,4 +9,3 @@
 - se não for o caso, como aumentar a eficiência de um computador já existente alterando o seu meio físico? 
 	o meio externo pode alterar o funcionamento/eficiência de um computador? #pergunta 
 - quais são os componentes principais de um console de videogame? Afinal ele não é composto só de coolers, CPUs e GPUs #pergunta 
-- 
