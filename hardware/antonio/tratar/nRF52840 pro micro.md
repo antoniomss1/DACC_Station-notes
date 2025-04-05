@@ -1,9 +1,8 @@
-#DACCStation 
+
 **DEFINE: NRF52840 Pro-Micro NRF**
 # pontos
 
 
-- 
 ## como começar com o NRF (IA)
 
 perguntas: 

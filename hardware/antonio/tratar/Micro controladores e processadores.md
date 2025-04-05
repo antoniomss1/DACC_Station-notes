@@ -1,4 +1,4 @@
-#DACCStation
+#DACCStation #hardware #antonio #tratar
 ## questões
 - como usar um para automatizar rotinas?
 - como programar um?
