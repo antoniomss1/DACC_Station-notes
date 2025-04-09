@@ -1,0 +1,3 @@
+## (PBL - Problem-Based Learning): [[abordagens para criação e gerenciamento de processos e threads em C++]] e [[Shell Script]] , analisando bibliotecas e comandos específicos, implementar [[testes práticos para avaliar o uso de recursos (CPU, RAM)]] em diferentes cenários de carga, comparar o desempenho e a aplicabilidade de cada abordagem, e produzir um relatório técnico detalhando os resultados obtidos e justificando a escolha da melhor solução para diferentes contextos de uso.
+
+#DACC-Station #Software #Feliph #Topicos01 

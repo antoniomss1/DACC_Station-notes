@@ -3,7 +3,7 @@
 # pontos
 
 
-## como começar com o NRF (IA)
+## como começar com o NRF ( resposta da IA)
 
 perguntas: 
 - como começar a usar o nRF52840?
