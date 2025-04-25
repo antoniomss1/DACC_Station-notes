@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "a365363bd9021101",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hardware/antonio/Relatórios/04-15-2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04-15-2025"
-            }
-          },
-          {
             "id": "f032c83b9fd9fc1b",
             "type": "leaf",
             "state": {
@@ -47,6 +33,20 @@
               },
               "icon": "lucide-file",
               "title": "04-22-2025"
+            }
+          },
+          {
+            "id": "fc12dd7073492b3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hardware/antonio/Relatórios/04-23-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "04-23-2025"
             }
           }
         ],
@@ -218,10 +218,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f032c83b9fd9fc1b",
+  "active": "fc12dd7073492b3d",
   "lastOpenFiles": [
     "hardware/antonio/Relatórios/04-15-2025.md",
+    "hardware/antonio/Relatórios/04-23-2025.md",
     "hardware/antonio/Relatórios/04-22-2025.md",
+    "hardware/Pasted image 20250415111732.jpg",
     "hardware/antonio/Relatórios/02-19-2025.md",
     "hardware/antonio/Relatórios/02-25-2025.md",
     "hardware/antonio/Relatórios/03-11-2025.md",
@@ -246,7 +248,6 @@
     "hardware/antonio/tratar/ESP 01S.md",
     "hardware/antonio/tratar/ATmega328.md",
     "hardware/antonio/tratar/Arduino.md",
-    "hardware/antonio/Raspberry PI/Raspberry Pi.md",
     "hardware/antonio/tratar",
     "hardware/antonio/Raspberry PI",
     "hardware/antonio/Relatórios",
