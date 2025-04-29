@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "04-29-2025"
             }
-          },
-          {
-            "id": "bfd8d430609e0524",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,10 +189,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bfd8d430609e0524",
+  "active": "c43f504a070525d8",
   "lastOpenFiles": [
-    "hardware/antonio/Relatórios/04-29-2025.md",
     "conflict-files-obsidian-git.md",
+    "hardware/antonio/Relatórios/04-29-2025.md",
     "hardware/gabriel/Antonio viado.md",
     "hardware/gabriel",
     "Untitled.md",
