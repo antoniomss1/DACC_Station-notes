@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "04-29-2025"
             }
+          },
+          {
+            "id": "bfd8d430609e0524",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,8 +204,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c43f504a070525d8",
+  "active": "bfd8d430609e0524",
   "lastOpenFiles": [
+    "hardware/antonio/Relatórios/04-29-2025.md",
+    "conflict-files-obsidian-git.md",
+    "hardware/gabriel/Antonio viado.md",
+    "hardware/gabriel",
+    "Untitled.md",
     "Pasted image 20250212145150.png.md",
     "Pasted image 20250415113109.png",
     "README.md",
@@ -199,7 +219,6 @@
     "Software/Feliph/Integração com a aplicação principal do console.md",
     "hardware/antonio/Relatórios/04-15-2025.md",
     "voltagem.md",
-    "hardware/antonio/Relatórios/04-29-2025.md",
     "hardware/antonio/Relatórios/04-19-2025.md",
     "hardware/antonio/Relatórios/04-22-2025.md",
     "hardware/antonio/Projeto DACC Station.md",
@@ -214,11 +233,9 @@
     "hardware/antonio/Teste.md",
     "Compartilhando/readme.md",
     "games/note 1.md",
-    "Untitled.md",
     "teste.md",
     "hardware/antonio/tratar/gamepad adequado.md",
     "hardware/antonio/Imagem do WhatsApp de 2025-04-01 à(s) 10.23.11_12120dfb.jpg",
-    "hardware/antonio/tratar/Micro controladores e processadores.md",
     "hardware/antonio/tratar",
     "hardware/antonio/Raspberry PI",
     "hardware/antonio/Relatórios",
