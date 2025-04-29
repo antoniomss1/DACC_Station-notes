@@ -48,9 +48,19 @@
               "icon": "lucide-file",
               "title": "04-23-2025"
             }
+          },
+          {
+            "id": "4a67936e551a4176",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,10 +228,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc12dd7073492b3d",
+  "active": "4a67936e551a4176",
   "lastOpenFiles": [
-    "hardware/antonio/Relatórios/04-15-2025.md",
+    "hardware/antonio/Projeto DACC Station.md",
     "hardware/antonio/Relatórios/04-23-2025.md",
+    "hardware/antonio/Relatórios/04-15-2025.md",
     "hardware/antonio/Relatórios/04-22-2025.md",
     "hardware/Pasted image 20250415111732.jpg",
     "hardware/antonio/Relatórios/02-19-2025.md",
@@ -235,7 +246,6 @@
     "hardware/antonio/tratar/Kernel e drivers.md",
     "hardware/antonio/Bluetooth.md",
     "hardware/antonio/Teste.md",
-    "hardware/antonio/Projeto DACC Station.md",
     "Compartilhando/readme.md",
     "games/note 1.md",
     "Untitled.md",
