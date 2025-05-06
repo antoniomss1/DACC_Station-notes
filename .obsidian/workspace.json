@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,7 +204,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "895a706484c3d4aa",
+  "active": "cf889873e29ae268",
   "lastOpenFiles": [
     "hardware/antonio/Bluetooth.md",
     "hardware/antonio/Relatórios/04-22-2025.md",
